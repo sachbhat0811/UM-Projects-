@@ -1,10 +1,7 @@
-Thank you for catching that. Here’s the **corrected and complete README** that includes all **four** projects:
 
----
+# Unified Mentor Projects Repository
 
-# Internship Project Repository
-
-This repository contains the complete code, reports, workflows, and detailed documentation for all internship projects undertaken. Each project demonstrates a unique application of machine learning or deep learning, covering both image and structured data tasks.
+This repository contains the complete code, reports, workflows, and detailed documentation for all Unified Mentor projects undertaken. Each project demonstrates a unique application of machine learning or deep learning, covering both image and structured data tasks.
 
 ---
 
