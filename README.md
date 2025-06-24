@@ -1,7 +1,7 @@
 
 # Unified Mentor Projects Repository
 
-This repository contains the complete code, reports, workflows, and detailed documentation for all Unified Mentor projects undertaken. Each project demonstrates a unique application of machine learning or deep learning, covering both image and structured data tasks.
+This repository contains the complete code, reports, workflows, and detailed documentation for all Unified Mentor projects undertaken by Sachin Bhat UMID15042530602. Each project demonstrates a unique application of machine learning or deep learning, covering both image and structured data tasks.
 
 ---
 
