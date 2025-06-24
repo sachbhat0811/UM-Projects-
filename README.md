@@ -82,26 +82,27 @@ This repository contains the complete code, reports, workflows, and detailed doc
 
 ```text
 ├── Animal-Image-Classification/
-│   ├── Notebooks/
-│   ├── Reports/
-│   └── Model-Files/
+│   ├── Notebooks
+│   ├── Reports
+|   ├── Datasets
+│   
 │
 ├── Mobile-Phone-Price-Prediction/
-│   ├── Notebooks/
-│   ├── Cleaned-Datasets/
-│   ├── Reports/
-│   └── Models/
+│   ├── Notebooks
+│   ├── Reports
+|   ├── Datasets
+│   
 │
 ├── Vehicle-Price-Prediction/
-│   ├── Notebooks/
-│   ├── Data-Cleaning/
-│   ├── Reports/
-│   └── Models/
+│   ├── Notebooks
+│   ├── Reports
+|   ├── Datasets
+│   
 │
 ├── ASL-Detection/
-│   ├── Notebooks/
-│   ├── Setup-Guides/
-│   └── Reports/
+│   ├── Notebooks
+│   ├── Reports
+|   ├── Datasets
 │
 └── README.md
 ```
